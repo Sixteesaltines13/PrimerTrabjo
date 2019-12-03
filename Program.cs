@@ -10,7 +10,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Que onda perro");
+            Console.WriteLine("Que onda ");
             Console.ReadKey();
         }
     }
